@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 255, 255);
+    
+}
+.design{
+    background-color: rgb(209, 24, 24);
+    text-align: center;
+}
+.Games{
+    text-align: center ;
+    
+    
+}
+h1{
+    color:rgb(26, 21, 21)
+}
+h2{
+
+  text-align: left;
+  color: rgb(20, 20, 138);
+}
+h3{
+    text-align: center;
+    color: rgb(190, 26, 26);
+}
+.Backgrounds{
+ background-color: aqua;
+
+}
